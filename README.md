@@ -1,1 +1,1 @@
-"# Cows-Simulation-of-Nature-System" 
+"Modeling the relationship between Cows and Infectied Cows in Nature System" 
